@@ -1,2 +1,2 @@
 # Green-Screen-rnek
-test
+Tamamen Kendi hazırladığım Green Screenlere örnek
